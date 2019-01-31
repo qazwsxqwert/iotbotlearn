@@ -1,2 +1,2 @@
 <?php
-echo "Hello LINE BOT PROJECT iotbotlearn \"Informatics @BUU\"";
+echo "2019-01-31 Hello LINE BOT PROJECT iotbotlearn \"Informatics @BUU\"";
