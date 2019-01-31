@@ -1,8 +1,8 @@
  <?php
 	function pubMqtt($topic,$msg){
 		$APPID= "iotbotlearn"; //enter your appid
-		$KEY = "9kmoYD60Jz8arby"; //enter your key
-		$SECRET = "eVZeNXUc2uARx6aXkGLO3DhV7"; //enter your secret
+		$KEY = "2wCqBooXH3C5nfW"; //enter your key
+		$SECRET = "PA8Yvw8P8jiZyds87S54XrV41"; //enter your secret
 		$Topic = "$topic";
 		if($msg =="on"){
 			$msg = "1";
