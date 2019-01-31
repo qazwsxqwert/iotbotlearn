@@ -14,7 +14,7 @@
 			$msg = "1";
 		}
 		else if($msg =="ปิดไฟ"){
-			$msg = "0";
+			$msg = "1";
 		}
 		else if($msg =="56"){
 			$msg = "1";
