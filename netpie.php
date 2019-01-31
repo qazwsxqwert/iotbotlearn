@@ -8,7 +8,7 @@
 			$msg = "1";
 		}
 		else if($msg =="off"){
-			$msg = "0";
+			$msg = "1";
 		}
 		else if($msg =="เปิดไฟ"){
 			$msg = "1";
