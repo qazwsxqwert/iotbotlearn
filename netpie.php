@@ -16,7 +16,7 @@
 		else if($msg =="ปิดไฟ"){
 			$msg = "0";
 		}
-		else if($msg =="ชุดใหญ่ไฟกระพริบ" || $msg =="blink"){
+		else if($msg =="blink"){
 			$msg = "3";
 		}
 		else{
